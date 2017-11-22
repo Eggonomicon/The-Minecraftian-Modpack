@@ -1,4 +1,4 @@
-# The-Minecraftian-Modpack
+# The Minecraftian Modpack
 A Repository for the Minecraftian Modpack
 
 Current Supported Version: 1.12.2
